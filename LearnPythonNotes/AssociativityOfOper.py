@@ -4,6 +4,4 @@ Almost all operators have left-right associativity
 
 !!!!!!    ASSOCIATIVITY CAN NOT BE APPLIES TO COMPARISON AND aSSIGNMENT OPERATORS   !!!!!!
 
-
-
 '''
